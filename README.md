@@ -17,6 +17,3 @@ import resilience🌟, growth🌱, positivity✨, connection🤝, passion🔥
 
 🌠 Set goals
 >**print("🌠 Chasing dreams! ✨" if dreams💭 else "🔍 Setting new goals! 🚀")**
-
-🚀 Keep moving
->**print("🚀 Keep pushing! 💪" if progressing📈 else "🔄 Time to reassess! 🧠")**
