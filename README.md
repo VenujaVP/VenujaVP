@@ -1,6 +1,6 @@
 
 ```sh
-import **resilience🌟, growth🌱, positivity✨, connection🤝, passion🔥
+import resilience🌟, growth🌱, positivity✨, connection🤝, passion🔥
 ```
 
 🌈 Handle failure
