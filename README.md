@@ -50,4 +50,5 @@ import resilience🌟, growth🌱, positivity✨, connection🤝, passion🔥
     <img src="https://github-readme-streak-stats.herokuapp.com?user=VenujaVP&theme=soft-green" alt="GitHub Streak Stats" />
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VenujaVP&label=Profile%20views&color=0e75b6&style=flat" alt="VenujaVP" /> </p>
 
