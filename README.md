@@ -20,7 +20,24 @@ import resilience🌟, growth🌱, positivity✨, connection🤝, passion🔥
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">💻 Tech Stack</h2>
+<h4 align="center">🛠 Languages and Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,r,java,html,css,javascript,php,react,mysql,mongodb,nodejs,kotlin"/></br>
+    <img src="https://skillicons.dev/icons?i=threejs,d3,flask,express,nodejs,tailwind"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,selenium"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/venuja-v11" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="venuja-v11" height="50" width="50" /></a>
 <a href="https://kaggle.com/venujaprasanjith" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" height="50" width="50" /></a>
@@ -31,19 +48,30 @@ import resilience🌟, growth🌱, positivity✨, connection🤝, passion🔥
 
 ---
 
-<h3 align="center">Github Activity ✔</h3>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenujaVP&theme=slateorange" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VenujaVP&theme=slateorange" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VenujaVP&theme=slateorange" alt="Stats" />
-</p>
+<h3 align="center">⚙️ Github Activity ✔</h3>
+<table align="center">
+  <tr>
+    <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenujaVP&theme=slateorange" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VenujaVP&theme=slateorange" 
+        alt="Repos Per Language" 
+      />
+    </td>
+    <td>
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VenujaVP&theme=slateorange" 
+        alt="Stats" 
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
